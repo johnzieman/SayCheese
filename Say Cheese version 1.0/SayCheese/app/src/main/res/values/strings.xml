@@ -1,0 +1,211 @@
+<resources>
+    <string name="app_name">Say Cheese</string>
+    <string name="cheese_image">Cheese image</string>
+    <string-array name="categhory">
+        <item>Cheese List</item>
+        <item>Cheese Manufacturing Companies</item>
+    </string-array>
+
+    <!--  Cheese types and infos  -->
+
+    <string name="mazarella_title">Mazarella</string>
+    <string name="parmesan_title">Parmesan</string>
+    <string name="cheddar_title">Cheddaer</string>
+    <string name="gouda">Gouda</string>
+    <string name="swiss_cheese">Swiss cheese</string>
+    <string name="emmentaler">Emmentaler</string>
+    <string name="brie">Brie</string>
+    <string name="camembert">Camembert</string>
+    <string name="gruyere_cheese">Gruyère cheese</string>
+    <string name="feta">Feta</string>
+    <string name="monterey_jack">Monterey Jack</string>
+    <string name="provolone">Provolone</string>
+    <string name="edam">Edam</string>
+    <string name="blue_cheese">Blue cheese</string>
+    <string name="gorgonzola">Gorgonzola</string>
+    <string name="roquefort">Roquefort</string>
+    <string name="ricotta">Ricotta</string>
+    <string name="cottage_cheese">Cottage cheese</string>
+    <string name="mascarpone">Mascarpone</string>
+    <string name="halloumi">Halloumi</string>
+
+    <string name="mazarella_info">Mozzarella may be the most popular cheese of all. It’s a southern
+        Italian dairy product traditionally made from buffalo milk. Fresh mozzarella is generally
+        white, usually rolled into balls of different sizes – from perline, which is the smallest
+        (0.03-ounce/1 gram) to ovoline (4 ounces/113 grams). But it can be found in even bigger
+        sizes: half pound balls or pound logs. There also is low-moisture mozzarella, which is aged
+        cheese, harder and with a buttery color.
+        You can enjoy fresh mozzarella with a drizzle of olive oil, coarse salt, and pepper,
+        because it has a slightly acidic or lactic taste, but not salty. You can make a simple
+        Caprese salad or eat it with tomatoes in a sandwich. Keep in mind that the best pizzas
+        are never without mozzarella!</string>
+    <string name="parmesan_info">Parmesan, or Parmigiano-Reggiano, is considered to be among the
+        top cheeses by cheese connoisseurs. It’s a hard, granular cheese with a strong, nutty,
+        and bitter taste, and that’s the reason you should add a small quantity to your dishes.
+        Parmesan is mostly grated over pasta, used in soups and risottos. It is also eaten as is,
+        as a snack or in cheese sauces. You can make crusts with panko, eggs, and parmesan
+        for coating chicken before frying it, sprinkle it over a casserole dish or a salad,
+        or add it into salty muffins.</string>
+    <string name="cheddar_info">Cheddar cheese is dry and crumbly in texture, with a deep, tangy,
+        nutty flavor. The color varies from ivory to straw to deep yellow. Cheddar is used to
+        top burgers, as well as in other types of sandwiches. You can use Cheddar over casseroles
+        or grated, in cheese sauces such as the one for mac and cheese, or to make veggie pies
+        or quiches.</string>
+    <string name="gouda_info">One of the most popular cheeses worldwide, Gouda is a semi-hard to
+        hard cow’s milk cheese from the Netherlands. When Gouda is aged the cheese changes its
+        flavor and texture. Aged Gouda has a strong flavor, with a sharp yet sweet taste at the same time.
+        Young Gouda can be melted, but aged cheese is best as is or grated in salads or over
+        casseroles. If you eat it simple, have it with beer, orange or apple juice, flavored tea,
+        red wine, or white wine.</string>
+    <string name="swiss_cheese_info">Swiss cheese resembles Emmentaler cheese. It’s a pale yellow
+        color, medium-hard cheese. Some types of Swiss cheese are riddled with holes known as ‘eyes’,
+        except for the ones who don’t have ‘eyes’ and are known as ‘blind’. It’s one of the most
+        popular cheeses in America.
+        Its mild, sweet and nut-like flavor makes it suitable mostly for sandwiches – especially for
+        Reuben sandwiches – but people usually add it to dishes like pies, frittatas, souffles, or
+        omelets, melted on a steak, in cheese sauces or fondue.</string>
+    <string name="emmentaler_info">Emmental or Emmentaler is what many people think of when they
+        hear of ‘Swiss cheese’ because they’re quite similar. This cheese is mild, a little sweet,
+        slightly nutty, and a bit spicy at the end. You can use it in many dishes, but especially
+        when you make cordon bleu, fondue, grilled cheese, and casseroles.</string>
+    <string name="brie_info">Brie is a soft cow’s milk cheese from north-eastern France, pale in
+        color with a slight grayish tinge under a rind of white mold. This cheese has a nutty,
+        fruity, grassy, and even mushroom-like flavor, similar to Camembert. Some people find it
+        unpleasantly acidic, others think it’s pleasant, buttery, and a bit tangy.
+        Brie and meat make a great combo, but you can also spread the cheese over a slice of
+        baguette. You can also serve baked brie with honey and apples, as a sweet dish.</string>
+    <string name="camembert_info">Brie and Camembert look and taste alike, and they’re often
+        served in similar ways. Yet there are subtle differences: Camembert has a deeper and
+        more intense flavor. You can make baked Camembert and serve it with cheese crackers,
+        toasted ciabatta slices, or garlic bread. You can also eat Brie and Camembert as is,
+        with grapes and red wine.</string>
+    <string name="gruyere_cheese_info">Gruyère is a hard cheese, yellow in color, sweet but
+        slightly salty, with a flavor that varies depending on its age. Gruyère cheese is
+        generally known as one of the finest cheeses for baking because it’s great for melting.
+        Traditionally, you use it to make cheese sauce. You can also add it to fondue. It’s a fine
+        table cheese. It can be used grated in salads and pasta. A French onion soup isn’t complete
+        without it.</string>
+    <string name="feta_info">Feta is a Greek cheese made with sheep and goat milk. It’s a white
+        brined cheese, salty, tangy, and moist, with a texture that can go from crumbly to
+        moderately creamy. Crumble Feta cheese in salads and over roasted vegetables, add it to
+        your sandwiches, add it in tacos and other Mexican dishes. Feta can be also served alongside
+        olives, peppers, olive oil, and fresh flatbread.</string>
+    <string name="monterey_info">Monterey Jack is one of the few all-American cheeses. It’s a pale
+        yellow semi-hard cheese made with cow’s milk. It has a mild and buttery flavor with a bit
+        of tang, and it’s good for melting.
+        It’s one of the best options for melting it in casseroles, including a classic like mac and
+        cheese, for making sandwiches, cheese dips, and grilled cheese.</string>
+    <string name="provolone_info">Provolone is an Italian semi-hard cheese. Its taste varies
+        depending on its age; from sharp or spicy to sweet with a very mild taste. Some versions
+        of provolone are smoked. You can use it to complete your casseroles, pizzas, sandwiches,
+        and baked pasta dishes.</string>
+    <string name="edam_info">Edam is a Dutch semi-hard cheese, traditionally sold in spheres with a
+        pale-yellow interior and a coat of red paraffin wax. It has a very mild flavor, slightly
+        salty or nutty, and almost odorless when compared to other cheeses. As the cheese ages,
+        its flavor sharpens.
+        Edam cheese goes well with chicken or potato dishes, in pasta, souffles, salads, fritters,
+        soups, and sauces.</string>
+    <string name="blue_cheese_info">Blue cheese is made with cow’s milk, sheep’s milk,
+        or goat’s milk and has cultures of the mold Penicillium added. That leads to creating blue,
+        blue-grey, blue-green, or blue-brown veins of mold in it. Also, Blue cheese has a distinct
+        smell, that some people find unpleasant. It tastes like yeast, it’s a little spicy, and
+        it’s creamy like butter. Blue cheese adds some class to a simple salad, roasted vegetables,
+        or grilled fruit dessert. You can add pieces of blue cheese to top your veggie soup or
+        puree.</string>
+    <string name="gorgonzola_info">Gorgonzola is a type of blue cheese, but it’s special because
+        of the small ‘blue’ stripes that actually has in it. It’s a mild, sweet, and milky cheese
+        that is best served with a glass of red wine. You can also stir it into a risotto or slice
+        it on your Quattro formaggi pizza.</string>
+    <string name="roquefort_info">Roquefort is, together with Gorgonzola, one of the world’s best
+        known blue cheeses. This French moldy cheese is like a moist, crumbly paste. It’s made
+        from sheep’s milk and has a sharp, sweet, and nutty flavor that comes from the yeast.
+        There are plenty of recipes that use Roquefort, thanks to its distinctive taste and its
+        melting capacity. It’s best eaten as is, with crackers or toast, or with nuts and honey.</string>
+    <string name="ricotta_info">Ricotta is an Italian whey cheese made from sheep’s milk.
+        This smooth cheese with a creamy mild sweet and fresh taste and a thick texture is very
+        versatile. Plus, it’s low in fat, which makes it a good choice for almost any diet.
+        Thanks to its low salt content, Ricotta is perfect for both sweet and savory dishes.
+        It’s actually perfect for everything from lasagna to pasta, from pies to cheesecakes.
+        You can spread it on a bread slice and top it with veggies, sunny side up eggs, or fruit,
+        and you can use it to make lots of dips.</string>
+    <string name="cottage_cheese_info">Ricotta and cottage cheese are often compared and some people
+        replace one with the other. But they aren’t all that similar. Cheesemakers separate milk or
+        cream into curds and whey. Then, the curds are used to make cottage cheese and the whey is
+        used to make ricotta. That’s the reason why both cheeses – Ricotta and cottage cheese – have
+        different textures. But they’re both soft and mild in flavor.
+        While Ricotta is described as sweet, cottage cheese is fresh, milky, and creamy, with a
+        moderate saltiness to it. The texture of cottage cheese is chunky, from the curds.
+        You can use it to top stuffed baked vegetables, like potatoes and pumpkins, in casseroles,
+        pasta, to make a dip or a quick sweet snack (combining it with fruits and granola),
+        in baked goods, or incorporated in smoothies.</string>
+    <string name="mascarpone_info">Compared to Ricotta (which is smooth, but has a grainy texture),
+        mascarpone has a very smooth texture with no lumps or granularities. Mascarpone is one of
+        the most popular cheeses and is made from cream and citric or tartaric acid, which thickens
+        the cream. It has a milky and slightly sweet taste and a buttery flavor which comes from its
+        high butterfat content.
+        Mascarpone is best known as an ingredient in the Italian dessert tiramisu. But you can also
+        use it in pasta, mac and cheese, lasagna, or in fresh desserts. Or you can transform it
+        into a dip by combining it with some olive oil, herbs and spices.</string>
+    <string name="halloumi_info">Halloumi is a Cypriot semi-hard brined cheese made from a mixture
+        of goat’s and sheep’s milk, and sometimes also cow’s milk. It’s the best cheese for grilling
+        because it has a high melting point. Because it’s also a salty cheese, you should combine
+        it with something that dims its strong taste.Just throw it on the grill, then serve it as a
+        starter, drizzled with olive oil and some fresh mint leaves and a glass of wine. You can add
+        it to salads, in omelets served with veggies, in couscous, seafood dishes, or pair it with
+        fresh fruit such as watermelon and pomegranate.</string>
+
+
+    <!-- Cheese production companies   -->
+    <string name="cabot_title">Cabot Creamery</string>
+    <string name="cowgirl_title">Cowgirl Creamery</string>
+    <string name="grafton_title"> Grafton Village Cheese</string>
+    <string name="kraft_title">Kraft Foods</string>
+    <string name="vermont_title">Vermont Shepherd</string>
+
+    <string name="cabot_info">The Cabot Creamery Cooperative is an American dairy agricultural
+        marketing cooperative, which is owned by local dairy farmers in New England and the Agri-Mark Cooperative company.
+        Originally started as Cabot Farmers Cooperative Creamery in 1919 by farmers in Cabot, Vermont,
+        it was taken over by the Agri-Mark Cooperative in 1992. Although they are technically owned
+        by Agri-Mark Co-op; local dairy farmers in New England own Cabot, also. </string>
+    <string name="cowgirl_info">Cowgirl Creamery is a company located in Point Reyes Station,
+        California, which manufactures artisan cheeses. Founded in 1994, the company manufactures
+        its own cheeses and sells other imported and domestic cheese and fine artisan foods.
+        Its own cheeses include Red Hawk and Mt. Tam (named after Mount Tamalpais). The company
+        operates a storefront in the Ferry Building of San Francisco. Founders Peggy Smith and
+        Sue Conley worked for years in the kitchens of the Bay Area, and Alice Waters\' Chez
+        Panisse, where Peggy worked for many years, is among many Bay Area establishments to
+        incorporate cheeses from Cowgirl Creamery into its menu.</string>
+    <string name="grafton_info">The company is the successor to the 1892 Grafton Cooperative Cheese
+        Company, which was founded to handle surplus local milk. The original company went out of
+        business due to a fire. It was restored in the mid-1960s with help from the Windham Foundation,
+        a nonprofit organization whose mission is to "preserve the vitality of Vermont\'srural communities".
+        Grafton\'s cheddar is synthetic-hormone-free and made mostly from Jersey cow milk from
+        Vermont family farms. The most common cheese offered by the Grafton Cheese is their block
+        cheddar, made in 40 pound blocks and then cut to different sales sizes.
+        In July 2008 the company celebrated the opening of a new production plant and retail store
+        in Brattleboro. The shop is "a 2,500-square-foot classic barn-like structure encompassing
+        a full-service artisanal cheese shop" offering "more than 70 types of cheeses, wine, Vermont
+        microbrews, fresh bread, maple products and other gourmet food items and accompaniments.
+        In 2014, the Grafton Spring Brook milk Cheese won the "Best USA Cheese trophy" at the 2014
+        International Cheese Awards.</string>
+    <string name="kraft_info">Kraft Foods Group, Inc. is an American grocery manufacturing and
+        processing conglomerate headquartered in Chicago, Illinois, part of the Kraft Heinz
+        Company.The company was restructured in 2012 as a spin off from Kraft Foods Inc.,
+        which in turn was renamed Mondelez International. The new Kraft Foods Group was focused
+        mainly on grocery products for the North American market while Mondelez is focused on
+        international confectionery and snack brands. Until the merger with Heinz, Kraft Foods
+        Group was an independent public company listed on the NASDAQ stock exchange.
+        On July 2, 2015, Kraft completed its merger with Heinz, arranged by Heinz owners Berkshire
+        Hathaway and 3G Capital, creating the fifth-largest food and beverage company in the
+        world, Kraft Heinz Company.</string>
+    <string name="vermont_info">Since 1993, Vermont Shepherd has made , their award-winning
+        flagship cheese. Made in the springtime, when the sheep have been grazing on pastures and
+        fields, Verano is a sheep’s milk cheese that’s available from August to April.
+        Vermont Shepherd is the creation of the Major and Ielpi family, who own and run one Vermont’s
+        oldest sheep farms, also called Vermont Shepherd (formerly Major Farm). Having bought the farm
+        from his parents, David Major was among the first small-scale cheesemakers in the United States
+        to begin producing sheep\'s milk cheese in the 1990s.</string>
+    <string name="logo_image">Logo</string>
+
+
+</resources>
